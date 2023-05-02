@@ -1,4 +1,4 @@
-#Basic string cleaner
+# Basic string cleaner
 Delete special caracters and more hyphen and dots.
 
 Usage example
